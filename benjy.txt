@@ -1,7 +1,8 @@
-3 redirections
+  7  21 153 tasks.txt
 1 setup the environment
+2 basic terminal operations
+2 basic terminal operations
+2 basic terminal operations
+3 redirections
 4 manipulations
-2 basic terminal operations
-2 basic terminal operations
-2 basic terminal operations
 fusdunf
